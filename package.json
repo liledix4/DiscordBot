@@ -1,0 +1,17 @@
+{
+    "name": "liledix4-discord-bot",
+    "version": "1.0.0",
+    "main": "src/main.mjs",
+    "scripts": {
+        "start": "node src/main.mjs",
+        "test": "node src/test.mjs"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "discord.js": "^14.15.3",
+        "hookcord": "^2.0.2",
+        "xmlhttprequest": "^1.8.0"
+    }
+}
